@@ -1,6 +1,6 @@
 # thanos-setup
 
-**Scaling with Thanos**
+This repository contains code from this article on [What is Thanos and How Does it Scale Prometheus?](https://last9.io/blog/what-is-thanos-and-how-does-it-scale-prometheus/)
 
 To get started, you need a working Prometheus deployment. Install Thanos as an additional component and configure its components based on your specific requirements and settings (e.g. Prometheus endpoints, object storage credentials and compaction rules).
 
